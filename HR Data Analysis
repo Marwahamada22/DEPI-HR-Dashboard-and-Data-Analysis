@@ -1,0 +1,14 @@
+ Project: DEPI HR Dashboard and Data Analysis
+
+This repository presents an in-depth analysis of employee and performance data using Python and R. The dataset includes multiple CSV files such as `EducationLevel.csv`, `Employee.csv`, `PerformanceRating.csv`, and more. By combining data preprocessing, statistical analysis, and visualization techniques, the project provides key insights into employee demographics, satisfaction levels, job performance, and education. Using libraries like `Pandas`, `Seaborn`, and `Matplotlib`, the project visualizes correlations between various features, providing actionable insights for HR departments.
+
+Key analyses include:
+- Age, salary, and satisfaction distributions using histograms and scatterplots.
+- Correlation heatmaps for numerical features such as salary, years at company, and education.
+- Data preprocessing steps like handling missing values, scaling features, and reducing skewness.
+  
+Additionally, the data from various sources was merged and exported into a consolidated Excel file for further reporting and analysis.
+
+This project highlights the application of machine learning techniques, such as regression and classification models, and provides a foundation for more advanced HR analytics.
+
+Feel free to explore the code and visualizations!
